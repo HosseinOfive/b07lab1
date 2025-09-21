@@ -1,1 +1,12 @@
-In this lab we will be making a polynomail class!
+In this lab we will be making a polynomial class!
+
+
+
+
+we have two constructor one of them needs a array of double as the coeficeint in reverse order 
+i.e x^2 + 5x + 6 ~~ [6, 5, 1]
+
+
+an add method whcih adds to poly's 
+
+and an evaluate and a hasRoot method which evaluates value of poly at the given double "point" and the other checks whether the given double "point" is a root of the poly
